@@ -27,7 +27,7 @@
 
 
 
-**RepWritter** es una herramienta poderosa escrita en Python diseñada para agilizar la creación, edición y publicación de writeups directamente en GitHub. Ideal para pentesters, investigadores de seguridad y entusiastas de CTFs, este script te permite estructurar writeups de manera profesional con soporte para títulos, imágenes, descripciones detalladas, flags, archivos adicionales y subida automática a un repositorio GitHub.
+**RepWritter** es una herramienta versátil escrita en Python diseñada para simplificar la creación, edición y publicación de documentación técnica, tutoriales y reportes directamente en GitHub. Ideal para desarrolladores, ingenieros, educadores y profesionales de diversas áreas, este script te permite estructurar contenido de manera profesional con soporte para títulos, imágenes, descripciones detalladas, archivos adjuntos y subida automática a un repositorio GitHub. Ya sea que estés documentando un proyecto de software, creando guías paso a paso o compartiendo análisis técnicos, RepWritter optimiza el proceso para que puedas enfocarte en el contenido.
 
 ## Características Principales
 
