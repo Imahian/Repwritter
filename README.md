@@ -110,7 +110,7 @@ Select an option:
     F. Finish and Generate Writeup: Genera el README.md localmente y súbelo a GitHub.
     Q. Quit without Saving: Sal sin guardar (con opción de guardar si hay cambios).
 ```
-
+3. No olvides cambiar las redes sociales a las tuyas en el script
 
 <div align="center">
 <p>Thanks for reading! Follow me on my socials:</p>
