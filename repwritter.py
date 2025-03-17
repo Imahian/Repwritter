@@ -771,7 +771,7 @@ def main():
     |              .MMMMMMMMMM                           MMMMMMMMMM.               |
     |              MMMMMMMMM"                             "MMMMMMMMM               |
     |              MMMMMMMMM                               MMMMMMMMM               |
-    |              MMMMMMMMM           REPWRITER           MMMMMMMMM               |
+    |              MMMMMMMMM           REPWRITTER          MMMMMMMMM               |
     |              MMMMMMMMMM                             MMMMMMMMMM               |
     |              `MMMMMMMMMM                           MMMMMMMMMM`               |
     |               MMMMMMMMMMMM.                     .MMMMMMMMMMMM                |
